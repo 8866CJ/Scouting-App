@@ -28,8 +28,8 @@ Download the available files from the release.
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/8866CJ/8866-Scouting-App.git
-    cd 8866-Scouting-App
+    git clone https://github.com/8866CJ/Scouting-App.git
+    cd Scouting-App
     ```
 
 2. Install dependencies:
@@ -42,7 +42,7 @@ Download the available files from the release.
     npm start
     ```
 
-4. Open your web browser and navigate to `http://localhost:3000` to use the application.
+4. Open your web browser and navigate to `http://localhost:8866` to use the application locally.
 
 ## Usage
 
